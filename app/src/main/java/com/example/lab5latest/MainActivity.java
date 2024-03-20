@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Missing Number", Toast.LENGTH_SHORT).show();
             return false;
         } else if (!foundSpecial) {
-            Toast.makeText(MainActivity.this, "Missing Special character", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, "ssing Special character", Toast.LENGTH_SHORT).show();
             return false;
         } else {
             return true;
